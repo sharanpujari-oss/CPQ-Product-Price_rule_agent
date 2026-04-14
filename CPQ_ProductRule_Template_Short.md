@@ -12,7 +12,7 @@
 - [ ] Show a warning but still allow saving (Alert)
 - [ ] Automatically add/remove a product (Selection)
 
-**Which quotes does this apply to?**
+**Which quotes/quote line does this apply to?**
 - [ ] New quotes
 - [ ] Renewal quotes
 - [ ] Amendment quotes
